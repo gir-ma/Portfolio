@@ -19,6 +19,11 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+### :woman_technologist: About Me :
 Hi, I'm Girma Terfa, a Junior Computer Science student at UCSD.
 
 🔭 I’m working towards my Bachelor's degree while actively engaging in research and learning about Machine Learning and Artificial Intelligence.
@@ -45,5 +50,7 @@ Hi, I'm Girma Terfa, a Junior Computer Science student at UCSD.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gir-ma&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 <br>
 This is my portiolio. It contains some of my stories, project highlights, expriences and etc
