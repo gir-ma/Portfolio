@@ -46,4 +46,4 @@ Hi, I'm Girma Terfa, a Junior Computer Science student at UCSD.
 
 ### :writing_hand: Blog Posts :
 <br>
-This is my portiolio. It contains some of my stories, project highlights, expriences and resume
+This is my portiolio. It contains some of my stories, project highlights, expriences and etc
