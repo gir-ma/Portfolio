@@ -1,7 +1,9 @@
 # Portfolio
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+ <!-- <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" -->
 </div>
+
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/girma-terfa-cs"> 
@@ -20,11 +22,15 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<img src="myimage2.jpeg"
+    width="500" 
+  height="400"/>
 </div>
-
+<!-- <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" -
+  ![image](myimage2.jpeg) -->
+ 
 ### :woman_technologist: About Me :
-Hi, I'm Girma Terfa, a Junior Computer Science student at UCSD.
+Hi, I'm Girma Terfa, a Junior Computer Science student at UCSD. Dynamic and results-oriented candidate with a proven ability to effectively manage diverse tasks and projects while maintaining a positive attitude. Demonstrates a strong commitment to team success and eagerly embraces additional responsibilities to drive organizational growth and excellence.
 
 🔭 I’m working towards my Bachelor's degree while actively engaging in research and learning about Machine Learning and Artificial Intelligence.
 
